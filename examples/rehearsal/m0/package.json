@@ -1,0 +1,17 @@
+{
+  "name": "rehearsal-m0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "browser": "tsx browser.ts",
+    "sandbox": "tsx sandbox.ts"
+  },
+  "dependencies": {
+    "@solarisdk/browser": "^0.1.1",
+    "@solarisdk/sdk": "^0.1.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
